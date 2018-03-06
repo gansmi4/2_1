@@ -1,0 +1,51 @@
+[
+    {
+      "photo": "https://png.cmtt.space/user-userpic/55/c5/ba/246aa702d664e7.jpg",
+      "firstName": "Адам",
+      "lastName": "Леонов",
+      "address": "171607, г. Еловое, ул. Авиаконструктора Миля, дом 9, квартира 289",
+      "phoneNumber": "8 (933) 399-57-85"
+    },
+    {
+      "photo": "https://png.cmtt.space/user-userpic/aa/b0/21/162029c3dcd5a1.jpg",
+      "firstName": "Доминика",
+      "lastName": "Маркова",
+      "address": "453256, г. Федотово, ул. Авиамоторная улица, дом 87, квартира 16",
+      "phoneNumber": "8 (973) 283-96-98"
+    },
+    {
+      "photo": "https://png.cmtt.space/user-userpic/cc/e2/c0/98071da5300d9a.jpg",
+      "firstName": "Дина",
+      "lastName": "Вирская",
+      "address": "624786, г. Павловка, ул. Королёва, дом 33, квартира 168",
+      "phoneNumber": "8 (980) 696-32-14"
+    },
+    {
+      "photo": "https://png.cmtt.space/user-userpic/98/39/cf/e4b8f74a0b48b4.jpg",
+      "firstName": "Элиза",
+      "lastName": "Денисова",
+      "address": "153005, г. Мещовск, ул. Загородная, дом 34, квартира 12",
+      "phoneNumber": "8 (920) 619-27-28"
+    },
+    {
+      "photo": "https://png.cmtt.space/user-userpic/5e/60/ea/bd05f75a82fae4.jpg",
+      "firstName": "Аполлон",
+      "lastName": "Сорокин",
+      "address": "309212, г. Прохладный, ул. Ленина, дом 80, квартира 59",
+      "phoneNumber": "8 (927) 606-30-40"
+    },
+    {
+      "photo": "https://png.cmtt.space/user-userpic/81/2c/d9/fcbdec06f06b3f.jpg",
+      "firstName": "Виктория",
+      "lastName": "Соколова",
+      "address": "676870, г. Камское Устье, ул. Веселова, дом 26, квартира 73",
+      "phoneNumber": "8 (915) 427-22-32"
+    },
+    {
+      "photo": "https://png.cmtt.space/user-userpic/a5/7a/f4/405b7c79d8b553.jpg",
+      "firstName": "Максимильян",
+      "lastName": "Чапко",
+      "address": "181023, г. Сосново-Озерское, ул. Весенняя, дом 77, квартира 85",
+      "phoneNumber": "8 (969) 244-60-69"
+    }
+  ]
